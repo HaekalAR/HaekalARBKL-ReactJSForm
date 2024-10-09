@@ -6,7 +6,6 @@ This project is a basic form design built with **React.js** and styled using **T
 
 - Input fields for user data (e.g., name, email, and password)
 - Responsive design with TailwindCSS
-- Simple validation (if needed)
 
 ## Getting Started
 
