@@ -27,8 +27,10 @@ Ensure you have the following installed on your machine:
 2. Navigate to project directory:
 
    ```bash
-   cd simple-form-design
+   cd HaekalARBKL-ReactJSForm
    ```
+
+   or type 'cd' and press tab.
 
 3. Install the dependencies:
 
