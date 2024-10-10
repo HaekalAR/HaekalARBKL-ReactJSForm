@@ -21,13 +21,13 @@ Ensure you have the following installed on your machine:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/HaekalAR/HaekalARBKL-ReactJSForm.git
+   git clone https://git.gi.co.id/pkl_haekal/reactjs-form.git
    ```
 
 2. Navigate to project directory:
 
    ```bash
-   cd HaekalARBKL-ReactJSForm
+   cd reactjs-form
    ```
 
    or type 'cd' and press tab.
@@ -51,4 +51,4 @@ Ensure you have the following installed on your machine:
 - [React.js](reactjs.org) A JavaScript library for building user interfaces.
 - [TailwindCSS](tailwindcss.com) A utility-first CSS framework for rapid UI development.
 
-#### Haekal Abdillah Ramadhan, SMKN 1 Kota Bengkulu.
+###### Haekal Abdillah Ramadhan, SMKN 1 Kota Bengkulu.
