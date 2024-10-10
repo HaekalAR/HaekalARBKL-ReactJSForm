@@ -24,6 +24,12 @@ Ensure you have the following installed on your machine:
    git clone https://git.gi.co.id/pkl_haekal/reactjs-form.git
    ```
 
+   or
+
+   ```bash
+   git clone https://github.com/HaekalAR/HaekalARBKL-ReactJSForm.git
+   ```
+
 2. Navigate to project directory:
 
    ```bash
